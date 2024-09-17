@@ -1,24 +1,26 @@
-﻿namespace Examen_Mvvm
+﻿using Examen_Mvvm.ViewModel;
+using Microsoft.Maui.Controls;
+
+namespace Examen_Mvvm
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
+        private MainPageViewModel viewModel;
         public MainPage()
         {
             InitializeComponent();
+            viewModel = new MainPageViewModel();
+            BindingContext = viewModel;
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void Calcular(object sender, EventArgs e)
         {
-            count++;
+            viewModel.CalcularProducto();
+        }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
+        private void Limpiar(object sender, EventArgs e)
+        {
+            viewModel.LimpiarProducto();
         }
     }
 
