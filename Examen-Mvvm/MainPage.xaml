@@ -5,13 +5,15 @@
              x:Class="Examen_Mvvm.MainPage">
     
     <StackLayout Padding="20">
-        <Entry Text="{Binding ProductoUno}" Placeholder="Precio Producto Uno" Keyboard="Numeric"/>
-        <Entry Text="{Binding ProductoDos}" Placeholder="Precio Producto Dos" Keyboard="Numeric"/>
-        <Entry Text="{Binding ProductoTres}" Placeholder="Precio Producto Tres" Keyboard="Numeric"/>
+        <Entry Text="{Binding ProductoUno}" Placeholder="Ingrese el precio del producto uno" Keyboard="Numeric" FontSize="15" />
+        <Entry Text="{Binding ProductoDos}" Placeholder="Ingrese el precio del producto dos" Keyboard="Numeric" FontSize="15"/>
+        <Entry Text="{Binding ProductoTres}" Placeholder="Ingrese el precio del producto tres" Keyboard="Numeric" FontSize="15" />
 
-        <Label Text="{Binding mensajerror}" TextColor="Red" 
-               IsVisible="{Binding mensajerror, Converter={StaticResource stringToBoolConverter}}"/>
-
+        <Label Text="{Binding Mensajerror}"
+               TextColor="Red"
+               FontSize="15"
+               IsVisible="{Binding Mensajerror,Converter={StaticResource StringToBool}}"
+               />
         <Label Text="Sub-total: "/>
         <Entry Text="{Binding SubTotal}" IsReadOnly="true"/>
         <Label Text="Descuento: "/>

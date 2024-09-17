@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|solutionrelative:examen-mvvm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\examen-mvvm\\examen-mvvm\\converter\\stringtobool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|solutionrelative:examen-mvvm\\converter\\stringtobool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\examen-mvvm\\examen-mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|solutionrelative:examen-mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\examen-mvvm\\examen-mvvm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48F514AB-6E96-4A2F-B0AA-B6799EC433F0}|Examen-Mvvm\\Examen-Mvvm.csproj|solutionrelative:examen-mvvm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\App.xaml",
+              "RelativeDocumentMoniker": "Examen-Mvvm\\App.xaml",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\App.xaml",
+              "RelativeToolTip": "Examen-Mvvm\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T14:14:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringToBool.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\Converter\\StringToBool.cs",
+              "RelativeDocumentMoniker": "Examen-Mvvm\\Converter\\StringToBool.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\Converter\\StringToBool.cs",
+              "RelativeToolTip": "Examen-Mvvm\\Converter\\StringToBool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:10:32.852Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +66,35 @@
               "RelativeDocumentMoniker": "Examen-Mvvm\\MainPage.xaml",
               "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\MainPage.xaml",
               "RelativeToolTip": "Examen-Mvvm\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-17T01:57:54.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Examen-Mvvm\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\MainPage.xaml.cs",
-              "RelativeToolTip": "Examen-Mvvm\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:41:48.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\ViewModel\\MainPageViewModel.cs",
               "RelativeDocumentMoniker": "Examen-Mvvm\\ViewModel\\MainPageViewModel.cs",
               "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\ViewModel\\MainPageViewModel.cs",
               "RelativeToolTip": "Examen-Mvvm\\ViewModel\\MainPageViewModel.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwC8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T02:13:14.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Examen-Mvvm\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\Examen-Mvvm\\Examen-Mvvm\\MainPage.xaml.cs",
+              "RelativeToolTip": "Examen-Mvvm\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:41:48.113Z",
               "EditorCaption": ""
             }
           ]

@@ -33,7 +33,7 @@ namespace Examen_Mvvm.ViewModel
             if(string.IsNullOrWhiteSpace(productoUno) || string.IsNullOrWhiteSpace(productoDos)
                || string.IsNullOrWhiteSpace(productoTres)) 
             {
-                mensajerror = "Todos los campos deben ser llenados.";
+                Mensajerror = "Todos los campos deben ser llenados.";
                 return;
             }
 
@@ -41,11 +41,11 @@ namespace Examen_Mvvm.ViewModel
                 !double.TryParse(productoDos, out double producto2) || producto2 < 0 ||
                 !double.TryParse(productoTres, out double producto3) || producto3 < 0)
             {
-                mensajerror = "Ingrese valores numericos validos o mayores o iguales a cero.";
+                Mensajerror = "Ingrese valores numericos validos o mayores o iguales a cero.";
                 return;
             }
 
-                mensajerror = "";
+                Mensajerror = "";
             
                 double suma = producto1 + producto2 + producto3;
                 SubTotal = suma.ToString("F2") + " LPS";
